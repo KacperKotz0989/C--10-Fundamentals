@@ -1,0 +1,15 @@
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/bin/Debug/net6.0/csharp-10-Fundamentals
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/bin/Debug/net6.0/csharp-10-Fundamentals.deps.json
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/bin/Debug/net6.0/csharp-10-Fundamentals.runtimeconfig.json
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/bin/Debug/net6.0/csharp-10-Fundamentals.dll
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/bin/Debug/net6.0/csharp-10-Fundamentals.pdb
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.csproj.AssemblyReference.cache
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.AssemblyInfoInputs.cache
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.AssemblyInfo.cs
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.csproj.CoreCompileInputs.cache
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.dll
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/refint/csharp-10-Fundamentals.dll
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.pdb
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/csharp-10-Fundamentals.genruntimeconfig.cache
+/Users/kacperkotzknecht/Documents/Gits-Kac/C#-10-Fundamentals/csharp-10-Fundamentals/csharp-10-Fundamentals/obj/Debug/net6.0/ref/csharp-10-Fundamentals.dll
